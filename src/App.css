@@ -32,6 +32,8 @@ header p {
   min-height: 100vh;
   position: relative;
   background: url(/img1.jpeg) rgba(0, 0, 0, 0.75);
+  
+
   background-blend-mode: darken;
   background-size: cover;
   background-repeat: no-repeat;

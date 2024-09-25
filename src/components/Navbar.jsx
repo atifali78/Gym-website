@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
     <header>
       <p>BODY & SOUL FITNESS</p>
+      
     </header>
   );
 };

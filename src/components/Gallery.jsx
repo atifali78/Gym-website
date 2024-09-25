@@ -12,6 +12,7 @@ const Gallery = () => {
     "/img7.webp",
     "/img8.jpeg",
     "/img9.jpeg",
+    "/img10.jpg",
   ];
   return (
     <section className="gallery">
